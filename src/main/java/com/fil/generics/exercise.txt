@@ -1,0 +1,8 @@
+Create Generic Class which takes two different types. String and Integer
+
+add one generic method, lets say swap()
+
+2. Create a generic method that adds an element in the list data structure.
+Element type is going to be determined by consumer
+
+3. convert this method into static method
